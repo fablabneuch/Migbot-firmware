@@ -8,13 +8,13 @@
 #ifndef LANGUAGE_EN_H
 #define LANGUAGE_EN_H
 
-#define WELCOME_MSG                         MACHINE_NAME " ready."
-#define MSG_SD_INSERTED                     "Card inserted"
-#define MSG_SD_REMOVED                      "Card removed"
+#define WELCOME_MSG                         MACHINE_NAME " Printer."
+#define MSG_SD_INSERTED                     "SD CARD Inserted"
+#define MSG_SD_REMOVED                      "SD CARD Removed"
 #define MSG_MAIN                            "Main"
 #define MSG_AUTOSTART                       "Autostart"
 #define MSG_DISABLE_STEPPERS                "Disable steppers"
-#define MSG_AUTO_HOME                       "Auto home"
+#define MSG_AUTO_HOME                       "Home all axis"
 #define MSG_SET_HOME_OFFSETS                "Set home offsets"
 #define MSG_SET_ORIGIN                      "Set origin"
 #define MSG_PREHEAT_PLA                     "Preheat PLA"
